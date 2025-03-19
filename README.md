@@ -15,6 +15,7 @@ This project explores biodiversity in U.S. national parks using species observat
 ## Technologies Used
 - **Python Libraries**: Pandas, Matplotlib, Seaborn, SciPy, Scikit-Learn
 - **Statistical Tests**: Chi-square, ANOVA
+- **Machine Learning Model**: Random Forest Classifier
 
 ## Key Findings
 The Chi-square test showed a significant relationship between conservation status and specieis category. ANOVA analysis indicated significant biodiversity differences across national parks. The Random Forest model achieved **96.9% accuracy**, but struggled with detecting endangered species.
