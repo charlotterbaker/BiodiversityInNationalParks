@@ -12,7 +12,7 @@ This study analyzes biodiversity in U.S. National Parks, examining distribution,
 -   **Birds** (2,364 species)
 -   **Mammals** (1,200 species)
 - **Evaluation:** Parks with the highest recocrded biodiversity show a prevalence of vascular plants and bird species, suggesting these ecosystems are dominant in national park regions. Further, this reflects the significance of these groups in evaluating the whole biosphere. The dominance of vascular plants aligns with the fact that many national parks contain diverse plant life that thrives in different climates and altitudes. Birds are highly adaptable and found in multiple ecosystems, contributiong to their prevalence. Mammals, though fewer in number, are significant due to their role in park ecosystems, acting as predators, herbivores, or keystone species.
-- 
+
 
 ### 2. Conservation Status and Species Risk
 - The conservation status distribution:
