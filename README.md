@@ -9,7 +9,7 @@ This project explores biodiversity in U.S. national parks using species observat
 - **Predictive Modeling**: Machine Learning to classify endangered species.
 
 ## Data Sources
-- observations.csv: Species observations across national parks
+- observations.csv
 - species_info.csv
 
 ## Technologies Used
