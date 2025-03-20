@@ -48,7 +48,7 @@ A **Random Forest Classifier** was trained to predict whether a species is endan
 - **Precision & Recall:**
 -   Non-Endangered Species (0): High accuracy in identifying these species.
 -   Endangered Species (1): Precision is **59%**, but recall is **20%**, meaning the model striggles to detect endangered species as of now.
-### Model Insiights
+### Model Insights
 - While the model performs well overall, it struggles with recall for endangered species, likely due to class imbalance (far fewer endangered species in the dataset)
 - Improving feature engineering or using oversampling/undersampling techniques could enhance predictive performance.
 - The high accuracy suggests the model effectively differentiates between common species and those of concern. The poor recall for endangered species indicated that the model is biased toward the majority class. Further improvements could include incorporating additional environmental variables or balancing the dataset to improve endangered species detection.
