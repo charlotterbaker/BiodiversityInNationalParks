@@ -3,7 +3,7 @@
 ### **Note: These findings were determined from various tests in the "Analysis.py" script. These can be replicated by running this script in a suitable code environment with the raw data csv files.**
 
 ## Overview
-This study analyzes biodiversity in U.S. National Parks, examining distribution, status, and statistical relationships. Using various technologies including plotting, statistical tests, and machine learning, we were able to better understand and predict the changes in biodiversity between parks.
+This study analyzes biodiversity in U.S. National Parks, examining distribution, conservation status, and statistical relationships. Using various technologies including plotting, statistical tests, and machine learning, we were able to better understand and predict the changes in biodiversity between parks.
 
 ## Key Findings
 ### 1. Species Distribution Across National Parks
@@ -11,7 +11,7 @@ This study analyzes biodiversity in U.S. National Parks, examining distribution,
 -   **Vascular Plants** (19,560 species)
 -   **Birds** (2,364 species)
 -   **Mammals** (1,200 species)
-- **Evaluation:** Parks with the highest recocrded biodiversity show a prevalence of vascular plants and bird species, suggesting these ecosystems are dominant in national park regions. Further, this reflects the significance of these groups in evaluating the whole biosphere. The dominance of vascular plants aligns with the fact that many national parks contain diverse plant life that thrives in different climates and altitudes. Birds are highly adaptable and found in multiple ecosystems, contributiong to their prevalence. Mammals, though fewer in number, are significant due to their role in park ecosystems, acting as predators, herbivores, or keystone species.
+- **Evaluation:** Parks with the highest recorded biodiversity show a prevalence of vascular plants and bird species, suggesting these ecosystems are dominant in national park regions. Further, this reflects the significance of these groups in evaluating the whole biosphere. The dominance of vascular plants aligns with the fact that many national parks contain diverse plant life that thrives in different climates and altitudes. Birds are highly adaptable and found in multiple ecosystems, contributiong to their prevalence. Mammals, though fewer in number, are significant due to their role in park ecosystems, acting as predators, herbivores, or keystone species.
 
 
 ### 2. Conservation Status and Species Risk
